@@ -25,6 +25,10 @@ Useful pages:
 - About: https://docucue.docunudge-cloud.workers.dev/about
 - Support: https://docucue.docunudge-cloud.workers.dev/support
 
+## Official social profile
+
+- LinkedIn: https://www.linkedin.com/company/docucue/
+
 ## About this repository
 
 This is the public information repository for **DocuCue**. The application source code is maintained privately.
