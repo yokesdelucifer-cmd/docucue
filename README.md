@@ -14,16 +14,12 @@ DocuCue helps businesses keep employee and contractor certificates, qualificatio
 
 ## Official website
 
-**DocuCue:** https://docucue.docunudge-cloud.workers.dev/
+**DocuCue:** https://docucue.pages.dev/
 
-Useful pages:
+## Application
 
-- Features: https://docucue.docunudge-cloud.workers.dev/features
-- How it works: https://docucue.docunudge-cloud.workers.dev/how-it-works
-- Pricing: https://docucue.docunudge-cloud.workers.dev/pricing
-- FAQ: https://docucue.docunudge-cloud.workers.dev/faq
-- About: https://docucue.docunudge-cloud.workers.dev/about
-- Support: https://docucue.docunudge-cloud.workers.dev/support
+Use the DocuCue app here:
+https://docucue.docunudge-cloud.workers.dev/
 
 ## Official social profile
 
